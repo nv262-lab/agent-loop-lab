@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+logs/
+data/outbox.txt
+data/memory_store.json
+.DS_Store
